@@ -108,6 +108,9 @@ h4 {
 .infos {
     display: flex;
     direction: row;
-    height: 250px;
-    width: auto;
+
 }
+ .infos img {
+     height: 250px;
+     width: 250px;
+ }
